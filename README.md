@@ -9,7 +9,7 @@ where 20.0.0.254:80 is the IP address of the VNF.
 
 ## config.yaml
 
-mitmproxy share a common YAML configuration file located at ~/.mitmproxy/config.yaml. This file controls options - typed values that determine the behaviour of mitmproxy. In this example, the default config file is used hence it need not be explicitly given.
+mitmproxy share a common YAML configuration file located at ~/.mitmproxy/config.yaml. This file controls options - typed values that determine the behaviour of mitmproxy. 
 
 ## mitmdump
 
