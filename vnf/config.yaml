@@ -3,6 +3,9 @@ console_palette_transparent: True
 console_mouse: False
 console_focus_follow: True
 ignore_hosts: []
-#scripts:
+# scripts:
 #  - ~/.mitmproxy/sample.py
 anoption: "foo"
+
+This is an example config.yaml file. Scripts can be used to intercept traffic. 
+# An example script can be found at ~/example_scripts/sample.py 
