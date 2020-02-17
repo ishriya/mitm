@@ -1,0 +1,8 @@
+console_palette: "dark"
+console_palette_transparent: True
+console_mouse: False
+console_focus_follow: True
+ignore_hosts: []
+#scripts:
+#  - ~/.mitmproxy/sample.py
+anoption: "foo"
