@@ -32,7 +32,7 @@ ADD stop.sh stop.sh
 RUN chmod +x stop.sh
 ADD config.yaml ~/.mitmproxy/config.yaml
 ADD log_intf_statistics.py log_intf_statistics.py
-# ADD sample.py ~/.mitmproxy/sample.py # if there is any script to intercept traffic
+# ADD sample.py ~/.mitmproxy/sample.py
 
 WORKDIR /
 
